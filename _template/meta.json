@@ -1,0 +1,14 @@
+{
+  "title": "Your presentation title",
+  "date": "2026-01-01",
+  "project": "Name of the project thread",
+  "summary": "One or two sentences on what this meeting covered.",
+  "takeaways": [
+    "First key takeaway",
+    "Second key takeaway"
+  ],
+  "links": [
+    { "label": "Optional related link", "url": "https://example.com" }
+  ],
+  "slides": "slides.pdf"
+}

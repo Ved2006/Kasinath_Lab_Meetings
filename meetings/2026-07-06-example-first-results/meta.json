@@ -1,0 +1,13 @@
+{
+  "title": "Example — First results from the second project thread",
+  "date": "2026-07-06",
+  "project": "Example Project B",
+  "summary": "Sample meeting to demonstrate the site. A second project thread appears in its own color, showing how parallel work reads as distinct strands on the timeline.",
+  "takeaways": [
+    "Demo entry — this one has no slides.pdf, so the page shows the friendly fallback state."
+  ],
+  "links": [
+    { "label": "Kasinath Lab meetings repository", "url": "https://github.com/gsstephenson/Kasinath_Lab_Meetings" }
+  ],
+  "slides": "slides.pdf"
+}

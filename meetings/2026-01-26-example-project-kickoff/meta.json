@@ -1,0 +1,11 @@
+{
+  "title": "Example — Project kickoff: background & specific aims",
+  "date": "2026-01-26",
+  "project": "Example Project A",
+  "summary": "Sample meeting to demonstrate the site. Introduced the motivating literature, framed the central question, and proposed three specific aims for the project.",
+  "takeaways": [
+    "This is a demo entry — delete this folder once you add real meetings.",
+    "Each meeting needs only a meta.json and a slides.pdf; everything else is automatic."
+  ],
+  "slides": "slides.pdf"
+}

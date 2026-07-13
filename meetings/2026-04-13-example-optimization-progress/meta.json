@@ -1,0 +1,11 @@
+{
+  "title": "Example — Optimization progress & troubleshooting",
+  "date": "2026-04-13",
+  "project": "Example Project A",
+  "summary": "Sample meeting to demonstrate the site. Walked through optimization attempts, what failed, what improved yields, and the plan for the next quarter.",
+  "takeaways": [
+    "Demo entry — notice this shares a color thread with the kickoff meeting above it.",
+    "Project names in meta.json group meetings into color-coded threads on the timeline."
+  ],
+  "slides": "slides.pdf"
+}

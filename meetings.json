@@ -1,0 +1,33 @@
+{
+  "generated": "2026-07-13",
+  "count": 3,
+  "meetings": [
+    {
+      "slug": "2026-01-26-example-project-kickoff",
+      "path": "meetings/2026-01-26-example-project-kickoff/",
+      "title": "Example \u2014 Project kickoff: background & specific aims",
+      "date": "2026-01-26",
+      "project": "Example Project A",
+      "summary": "Sample meeting to demonstrate the site. Introduced the motivating literature, framed the central question, and proposed three specific aims for the project.",
+      "hasSlides": true
+    },
+    {
+      "slug": "2026-04-13-example-optimization-progress",
+      "path": "meetings/2026-04-13-example-optimization-progress/",
+      "title": "Example \u2014 Optimization progress & troubleshooting",
+      "date": "2026-04-13",
+      "project": "Example Project A",
+      "summary": "Sample meeting to demonstrate the site. Walked through optimization attempts, what failed, what improved yields, and the plan for the next quarter.",
+      "hasSlides": true
+    },
+    {
+      "slug": "2026-07-06-example-first-results",
+      "path": "meetings/2026-07-06-example-first-results/",
+      "title": "Example \u2014 First results from the second project thread",
+      "date": "2026-07-06",
+      "project": "Example Project B",
+      "summary": "Sample meeting to demonstrate the site. A second project thread appears in its own color, showing how parallel work reads as distinct strands on the timeline.",
+      "hasSlides": false
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Lab Meeting — Kasinath Lab</title>
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Crect width='16' height='16' fill='%23000'/%3E%3Crect y='11' width='16' height='5' fill='%23CFB87C'/%3E%3C/svg%3E" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@700&family=Roboto:wght@400;500&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="../../assets/style.css" />
+</head>
+<body>
+
+  <header class="site-header">
+    <div class="bar">
+      <a class="wordmark" href="../../">Kasinath Lab <span class="gold">/</span> Lab Meetings</a>
+      <span class="affiliation">University of Colorado Boulder</span>
+    </div>
+  </header>
+
+  <main class="meeting-wrap" id="meeting">
+    <a class="breadcrumb" href="../../">← All meetings</a>
+
+    <div class="meeting-head">
+      <div class="tl-meta">
+        <span class="tl-date" id="mDate"></span>
+        <span class="project-chip" id="mProject" hidden></span>
+      </div>
+      <h1 id="mTitle">Loading…</h1>
+    </div>
+
+    <p class="meeting-summary" id="mSummary"></p>
+
+    <section id="takeawaysSection" hidden>
+      <h2 class="section-label">Key takeaways</h2>
+      <ul class="takeaways" id="mTakeaways"></ul>
+    </section>
+
+    <section>
+      <h2 class="section-label">Slides</h2>
+      <div id="slidesEmbed"></div>
+    </section>
+
+    <section id="linksSection" hidden>
+      <h2 class="section-label">Related links</h2>
+      <ul class="link-list" id="mLinks"></ul>
+    </section>
+
+    <nav class="pager" id="pager" aria-label="Previous and next meetings"></nav>
+  </main>
+
+  <footer class="site-footer">
+    <div class="bar">
+      <span>Maintained by George Stephenson · Kasinath Lab, CU Boulder</span>
+      <span><a href="../../">Back to the timeline</a></span>
+    </div>
+  </footer>
+
+  <noscript><p style="text-align:center">This page needs JavaScript to render the meeting details.</p></noscript>
+  <script src="../../assets/shared.js"></script>
+  <script src="../../assets/meeting.js"></script>
+</body>
+</html>
